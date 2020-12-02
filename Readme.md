@@ -1,6 +1,6 @@
- <h1>Stories App on MERN stack :open_file_folder:<h1>
+ <h1>Stories App on MERN stack :open_file_folder:</h1>
 
-*A Short Social media platform like [Instagram!](http://www.instagram.com)* :sparkles:
+<h2>A Short Social media platform like [Instagram!](http://www.instagram.com)<h2> :sparkles:
 
 **Upload any photo and watch it come Alive :movie_camera:**
 
