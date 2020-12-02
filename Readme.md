@@ -1,4 +1,4 @@
-<h1> **Stories App on MERN stack** :open_file_folder:</h1>
+ **<h1>Stories App on MERN stack</h1>** :open_file_folder:
 
 <h2>*A Short Social media platform like [Instagram!](http://www.instagram.com)* :sparkles:</h2>
 
