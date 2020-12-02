@@ -1,8 +1,8 @@
- **Stories App on MERN stack** :open_file_folder:
+ <h1>Stories App on MERN stack :open_file_folder:<h1>
 
 *A Short Social media platform like [Instagram!](http://www.instagram.com)* :sparkles:
 
-<h1>Upload any photo and watch it come Alive :movie_camera:</h1>
+**Upload any photo and watch it come Alive :movie_camera:**
 
 	Create a feed using suitable images
 	
