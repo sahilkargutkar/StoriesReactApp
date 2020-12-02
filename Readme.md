@@ -10,7 +10,7 @@
 	
 	Delete the Image according to your requirement.
 	
-	 Like your Favourite posts.
+	Like your Favourite posts.
 
 **Mobile Responsive** :iphone:
 
@@ -18,5 +18,5 @@
 
 **Programming Languages Used** :computer:
 
-	<h3>###JavaScript,HTML,CSS,MongoDB,Express,React.js,Node.js </h3>
+	JavaScript,HTML,CSS,MongoDB,Express,React.js,Node.js 
 
