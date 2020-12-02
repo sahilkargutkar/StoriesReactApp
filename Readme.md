@@ -1,22 +1,22 @@
-# **Stories App on MERN stack** :open_file_folder:
+<h1> **Stories App on MERN stack** :open_file_folder:</h1>
 
-##*A Short Social media platform like [Instagram!](http://www.instagram.com)* :sparkles:
+<h2>*A Short Social media platform like [Instagram!](http://www.instagram.com)* :sparkles:</h2>
 
-#Upload any photo and watch it come Alive :movie_camera:
+<h1>Upload any photo and watch it come Alive :movie_camera:</h1>
 
-	###Create a feed using suitable images
+	<h3>Create a feed using suitable images</h3>
 	
-	###Edit current Image using basic tools.
+	<h3>Edit current Image using basic tools.</h3>
 	
-	### Delete the Image according to your requirement
+	<h3>Delete the Image according to your requirement.</h3>
 	
-	### Like your Favourite posts
+	<h3> Like your Favourite posts.</h3>
 
-#**Mobile Responsive** :iphone:
+<h1>**Mobile Responsive** :iphone:<h1>
 
-	###Can be used on Android as well as Iphone.
+	<h3>###Can be used on Android as well as Iphone.</h3>
 
-#**Programming Languages Used** :computer:
+<h1>**Programming Languages Used** :computer:<h1>
 
-	###JavaScript,HTML,CSS,MongoDB,Express,React.js,Node.js   
+	<h3>###JavaScript,HTML,CSS,MongoDB,Express,React.js,Node.js </h3>
 
